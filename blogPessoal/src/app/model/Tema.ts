@@ -3,6 +3,6 @@ import { User } from "./User"
 
 export class Tema {
     public id: number
-    public descrição: string
+    public descricao: string
     public postagem: Postagem[]
 }
